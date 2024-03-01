@@ -2,8 +2,6 @@ Hi, I am Kensuke Ohara.
 
 I am student at University of British Columbia in the Bachelor of Computer Science (BCS) Program.
 
-Currently I am enjoying working at Visier as a Software Developer Co-op.
-
 You can contact me at kensukeohara@gmail.com
 
 <!---
